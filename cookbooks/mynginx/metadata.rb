@@ -1,0 +1,3 @@
+name 'mynginx'
+depends 'sysctl'
+
